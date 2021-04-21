@@ -1,0 +1,3 @@
+folder Register is using Katalon.
+folder Web_Search is using cucumber, the "how to use" is in the folder.
+Automation Test is using postman.
